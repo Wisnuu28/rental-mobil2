@@ -45,6 +45,7 @@
 							<li><a href="/home" id="">Home</a></li>
 							<li><a href="/aboutus" id="">About Us</a></li>
 							<li><a href="/mobil" id="">Pilih Mobil</a></li>
+							<li><a href="https://drive.google.com/open?id=1iwz3ASz77-YFVBkga2vhucm0d4h4uzlK" id="">Download Aplikasinya</a></li>
 						</ul>
 					</nav>
 				</div>

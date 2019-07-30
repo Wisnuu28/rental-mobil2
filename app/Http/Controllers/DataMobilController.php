@@ -88,4 +88,8 @@ class DataMobilController extends Controller
         $data_mobil = Picture::find($id);
         return view('frontend.detail', compact('data_mobil'));
     }
+    public function index4()
+    {
+        return Picture::all();
+    }
 }
